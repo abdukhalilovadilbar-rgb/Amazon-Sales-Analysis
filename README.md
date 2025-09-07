@@ -25,8 +25,8 @@ This project analyzes a dataset of Amazon products to uncover insights into pric
 
 ### 2. Analysis of Discounted Prices
 ![Discounted Prices](images/discounted_prices.png)
-- **Insight:** The majority of products were priced under **₹{your max common price}**, with a median price of **₹{your median price}**. This shows a market focus on affordable products.
-
+- **Insight:** 
+The majority of products were priced under ₹10,000, with a median price of approximately ₹5,000. This shows a market focus on affordable products.
 ### 3. Top Product Categories
 ![Top Categories](images/top_categories.png)
 - **Insight:** The top category was **"{your top category name}"** with **{number}** products, indicating a high demand or saturation in this market segment.
