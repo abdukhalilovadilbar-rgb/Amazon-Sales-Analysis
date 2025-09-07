@@ -21,7 +21,7 @@ This project analyzes a dataset of Amazon products to uncover insights into pric
 
 ### 1. Distribution of Product Ratings
 ![Rating Distribution](images/rating_distribution.png)
-- **Insight:** The average product rating was **{your average rating here}** out of 5, with most products receiving high ratings between 4 and 4.5.
+- **Insight:** The average product rating was  4.55  out of 5, with most products receiving high ratings between 4 and 4.5.
 
 ### 2. Analysis of Discounted Prices
 ![Discounted Prices](images/discounted_prices.png)
